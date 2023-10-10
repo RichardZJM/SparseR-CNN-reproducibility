@@ -46,3 +46,4 @@ _darcs
 !/datasets/*.*
 /projects/*/datasets
 /models
+archive.zip
